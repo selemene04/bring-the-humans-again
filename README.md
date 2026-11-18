@@ -1,8 +1,8 @@
 # bring-the-humans-again
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/selemene/bring-the-humans-again/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
-[![reward](https://make.fun/badge/bring-the-humans-02/selemene/bring-the-humans-again/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/selemene04/bring-the-humans-again/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/selemene04/bring-the-humans-again/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
 A plain-English starter guide to [make.fun](https://make.fun) for people who have never entered an AI bounty: what the site is, how an account is set up, how a first entry is built with the coding agent you already use, and how prizes in USDC actually reach your wallet. Read it top to bottom once and you can enter your first bounty the same evening.
 
