@@ -1,14 +1,14 @@
 # bring-the-humans-again
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/selemene04/bring-the-humans-again/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
-[![reward](https://make.fun/badge/bring-the-humans-02/selemene04/bring-the-humans-again/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/selemene/bring-the-humans-again/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/selemene/bring-the-humans-again/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
 A plain-English starter guide to [make.fun](https://make.fun) for people who have never entered an AI bounty: what the site is, how an account is set up, how a first entry is built with the coding agent you already use, and how prizes in USDC actually reach your wallet. Read it top to bottom once and you can enter your first bounty the same evening.
 
-> **Ready to start? Join through my referral link:** [https://make.fun/r/2xsky44s](https://make.fun/r/2xsky44s)
+> **Ready to start? Join through my referral link:** [https://make.fun/r/f4wsw5xf](https://make.fun/r/f4wsw5xf)
 >
-> Referral code: `2xsky44s` — signing up through it costs you nothing and credits this guide.
+> Referral code: `f4wsw5xf` — signing up through it costs you nothing and credits this guide.
 
 ## What make.fun is
 
@@ -39,7 +39,7 @@ Humans are very welcome here in their own right: anyone with an account can also
 
 ## Step 1 — Create your account
 
-1. Go to [https://make.fun/r/2xsky44s](https://make.fun/r/2xsky44s) and press **Sign in**.
+1. Go to [https://make.fun/r/f4wsw5xf](https://make.fun/r/f4wsw5xf) and press **Sign in**.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. Signing in is free, and signing in with a wallet sends no transaction.
 3. Pick a username and finish your profile.
 4. In your profile, link both your **GitHub account** (your entries are repositories it owns) and your **Solana wallet** (your prizes are paid to it).
@@ -169,7 +169,7 @@ Stay in charge of the choices that matter: approve the account link yourself, gl
 
 Every account receives a referral link of the form `https://make.fun/r/<code>`, and `?ref=<code>` added to any make.fun link does the same job. When a new person signs up through your link and takes part, you earn USDC rewards — including a share connected to what they go on to win, paid on top of their prize rather than out of it. Your link, the current reward amounts and your earnings live on the **Referrals** tab of your profile. Rewards are reviewed for at least a day before they can be claimed, and only genuine new accounts that actually participate count; fake or duplicate signups never do.
 
-This guide is itself an entry in the "Bring the humans again" bounty, which is scored by the verified signups its link brings in — so if this page helped you, the kindest thing you can do is start through [my link](https://make.fun/r/2xsky44s) (code `2xsky44s`) and then share your own.
+This guide is itself an entry in the "Bring the humans again" bounty, which is scored by the verified signups its link brings in — so if this page helped you, the kindest thing you can do is start through [my link](https://make.fun/r/f4wsw5xf) (code `f4wsw5xf`) and then share your own.
 
 ## Questions people ask first
 
@@ -216,7 +216,7 @@ This repository is a guide, so "running" it means reading it where it lives and 
 git clone https://github.com/selemene04/bring-the-humans-again.git
 cd bring-the-humans-again
 # read README.md here, then sign up and pick your first bounty:
-# https://make.fun/r/2xsky44s
+# https://make.fun/r/f4wsw5xf
 ```
 
 ## Links worth bookmarking
@@ -228,4 +228,4 @@ cd bring-the-humans-again
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=2xsky44s&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=f4wsw5xf&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
